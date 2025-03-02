@@ -1,0 +1,9 @@
+Flowchart is the graphical representation of the algorithm, system or any process.
+It contain symbols and helps to understand the algorithm.
+
+Basic Flowchart Symbols
+Oval (Terminator): Represents the start or end of a flowchart.
+Rectangle (Process): Represents a process or operation (e.g., variable assignment, loops).
+Diamond (Decision): Represents a decision point (e.g., if-else conditions).
+Parallelogram (Input/Output): Represents input from the user or output display.
+Arrows: Indicate the flow of the process.
